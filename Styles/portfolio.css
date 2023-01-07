@@ -75,6 +75,10 @@ main {
     margin: 0 auto;
 }
 
+section{
+   margin-top: 130px;
+} 
+
 /* about section styles */
 .about {
     text-align: center;
@@ -114,9 +118,6 @@ main {
 }
 
 /* what i do style */
-.what-i-do {
-    margin-top: 130px;
-}
 
 .skill {
     background: #FFFFFF;
